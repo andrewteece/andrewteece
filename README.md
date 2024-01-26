@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am continuing my Frontend Developer skills.<br>I am looking to collaborate on open-source projects.<br>I am looking for help learning and advancing my Javascript skills.<br>I am currently learning SASS/SCSS and Javascript.<br>I love photography.<br><br>
+I am continuing my Frontend Developer toolbox.<br>I am looking to collaborate on open-source projects.<br>I am looking for help learning and advancing my Javascript skills.<br>I am currently learning SASS/SCSS and Javascript.<br>I love photography.<br><br>
 
 
 ## 🌐 Socials:
