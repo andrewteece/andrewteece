@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am continuing my Frontend Developer studies.<br>I am looking to collaborate on open-source projects.<br>I am looking for help learning and advancing my React skills.<br>I am working on a full-stack e-commerce app using NextJS and TypeScript<. I love photography.<br><br>
+I am continuing my Frontend Developer studies.<br>I am looking to collaborate on open-source projects.<br>I am looking for help learning and advancing my React skills.<br>I am working on a full-stack e-commerce app using NextJS and TypeScript. I love photography.<br><br>
 
 
 ## 🌐 Socials:
