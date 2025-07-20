@@ -1,24 +1,64 @@
-# 💫 About Me:
-I am continuing my Frontend Developer studies.<br>I am looking to collaborate on open-source projects.<br>I am looking for help learning and advancing my React skills.<br>I am working on a full-stack e-commerce app using NextJS and TypeScript. <br>I love photography.<br><br>
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andrew.teece.39) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrewteecephotography) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-teece-3ba8a57b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@andrewteece) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/andrewteece) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andrewteece&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andrewteece&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewteece&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=andrewteece&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=andrewteece&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 👋 Hi, I'm Andrew Teece  
+**Front-end Web Developer** | React • TypeScript • Next.js • Tailwind CSS
 
 ---
-[![](https://visitcount.itsvg.in/api?id=andrewteece&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a Front-end Developer focused on building responsive, accessible, and user-friendly web applications.  
+With a strong foundation in **React**, **TypeScript**, and **Tailwind CSS**, I create clean, maintainable code and polished UI experiences.
+
+- 💼 Open to: Front-end roles, freelance projects, or contract work  
+- 📫 Reach me at: [andrewteece.com](https://andrewteece.com) | [LinkedIn](https://www.linkedin.com/in/andrew-teece/)
+
+---
+
+### 🧰 Tech Stack
+
+#### Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+
+#### Languages  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+#### Styling & Design  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
+
+#### Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+### 📌 Featured Projects
+
+**🌐 [andrewteece.com](https://andrewteece.com)**  
+Personal portfolio showcasing projects, blog posts, and contact information.  
+_Tech: Next.js, Tailwind, TypeScript, Framer Motion_
+
+**📚 Course Builder App**  
+Dynamic platform with drag-and-drop section and lesson management.  
+_Tech: Next.js, Drizzle ORM, Shadcn UI_
+
+**🔗 LinkedIn Clone (WIP)**  
+A clone featuring auth, posts, and user profiles.  
+_Tech: React, Vite, TypeScript_
+
+---
+
+### 📈 GitHub Activity & Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=andrewteece&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewteece&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewteece&show_icons=true&theme=default)
+![Trophy](https://github-profile-trophy.vercel.app/?username=andrewteece&theme=flat&no-frame=true&column=7)
+
+---
+
+### 🤝 Let's Connect
+
+[andrewteece.com](https://andrewteece.com) • [LinkedIn](https://www.linkedin.com/in/andrew-teece/) • [GitHub](https://github.com/andrewteece)
