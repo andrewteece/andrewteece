@@ -14,23 +14,40 @@ With a strong foundation in **React**, **TypeScript**, and modern UI frameworks,
 
 ## 🧰 Tech Stack
 
-**Languages & Tools**  
-TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · Markdown
+### 🧠 Languages & Tools  
+- ⚙️ TypeScript, JavaScript (ES6+), HTML5, CSS3  
+- 🧾 Markdown, Git, GitHub Actions, ESLint, Prettier
 
-**Frameworks & Libraries**  
-React · Next.js (App Router) · Zustand · React Hook Form · Radix UI · Shadcn UI
+### ⚛️ Frameworks & Libraries  
+- ⚛️ React  
+- 🧭 Next.js (App Router)  
+- 🌿 Zustand  
+- 🧩 React Hook Form  
+- 🧱 Shadcn UI, Radix UI  
+- 🎭 Framer Motion
 
-**Styling**  
-Tailwind CSS · Framer Motion · Headless UI
+### 🎨 Styling  
+- 🎨 Tailwind CSS  
+- 🧠 Headless UI  
+- 🎨 Figma
 
-**Testing & Tooling**  
-Jest · React Testing Library · ESLint · Prettier · GitHub Actions
+### 🔌 API & Integration  
+- 📡 Axios  
+- 🔧 OpenAPI Schema Tooling  
+- 🔄 tRPC  
+- 🌐 WebSockets  
+- 💱 CCXT (Crypto APIs)
 
-**API & Backend Integration**  
-Axios · OpenAPI schema tooling · tRPC · WebSockets · CCXT (Crypto APIs)
+### 🗃️ Databases & ORM  
+- 🍃 MongoDB  
+- 🐘 PostgreSQL  
+- 🪐 PlanetScale  
+- 💧 Drizzle ORM  
+- 🔷 Prisma
 
-**Database & Storage**  
-MongoDB · PostgreSQL · PlanetScale · Drizzle ORM · Prisma
+### 🧪 Testing  
+- 🧪 Jest  
+- 🧪 React Testing Library
 
 ---
 
@@ -39,21 +56,21 @@ MongoDB · PostgreSQL · PlanetScale · Drizzle ORM · Prisma
 ### [andrewteece.com](https://andrewteece.com)  
 Personal portfolio site with smooth animations and dark mode.  
 **Stack:** Next.js · Tailwind CSS · TypeScript · Framer Motion  
-[View GitHub →](https://github.com/andrewteece/andrewteece.com)
+[GitHub →](https://github.com/andrewteece/andrewteece.com)
 
 ---
 
 ### Course Builder App  
 Drag-and-drop interface for managing courses, sections, and lessons.  
 **Stack:** Next.js · Drizzle ORM · Shadcn UI · Zustand  
-[View GitHub →](https://github.com/andrewteece/course-builder)
+[GitHub →](https://github.com/andrewteece/course-builder)
 
 ---
 
 ### LinkedIn Clone *(Work in Progress)*  
 Responsive social feed with login, user posts, and interactions.  
 **Stack:** React · TypeScript · Vite · Zustand  
-[View GitHub →](https://github.com/andrewteece/linkedin-clone)
+[GitHub →](https://github.com/andrewteece/linkedin-clone)
 
 ---
 
