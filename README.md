@@ -48,6 +48,7 @@ With a strong foundation in **React**, **TypeScript**, and modern UI frameworks,
 ### 🧪 Testing  
 - 🧪 Jest  
 - 🧪 React Testing Library
+- 🧪 Vitest 
 
 ---
 
