@@ -8,7 +8,7 @@ With a strong foundation in **React**, **TypeScript**, and modern UI frameworks,
 
 - 💼 Open to front-end roles, freelance projects, or contract work  
 - 🌐 Website: [andrewteece.com](https://andrewteece.com)  
-- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/andrew-teece/) | [GitHub](https://github.com/andrewteece)
+- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/andrew-teece/) · [GitHub](https://github.com/andrewteece)
 
 ---
 
@@ -47,8 +47,36 @@ With a strong foundation in **React**, **TypeScript**, and modern UI frameworks,
 
 ### 🧪 Testing  
 - 🧪 Jest  
-- 🧪 React Testing Library
-- 🧪 Vitest 
+- 🧪 React Testing Library  
+- 🧪 Vitest
+
+---
+
+## 💻 Dev Environment
+
+A clean, fast, Apple Silicon-native setup optimized for front-end web development.
+
+### 🔧 CLI Tools
+
+- Node.js (LTS) with [`pnpm`](https://pnpm.io/)
+- `typescript`, `eslint`, `prettier`, `vitest`, and `vercel` CLI globally via `pnpm`
+- Git + GitHub CLI
+- Homebrew (Apple Silicon native via `/opt/homebrew`)
+- Shell: `zsh` + `zoxide` + `fzf` + `tmux` + `neovim`
+- Terminals: [Warp](https://www.warp.dev/) and iTerm2
+
+### 🛠️ GUI Apps
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Docker Desktop](https://www.docker.com/)
+- [Figma](https://figma.com/)
+- [Postman](https://www.postman.com/)
+
+### 📦 Package Managers
+
+- `pnpm` (primary)
+- `nvm` (optional fallback for Node version management)
+- `brew` (for CLI and GUI app installs)
 
 ---
 
@@ -75,11 +103,10 @@ Responsive social feed with login, user posts, and interactions.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewteece&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewteece&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewteece&theme=dark&hide_border=true&background=000000" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -88,3 +115,5 @@ Responsive social feed with login, user posts, and interactions.
 
 I'm always open to chatting about interesting projects, contract work, or full-time roles.  
 Reach out via [LinkedIn](https://www.linkedin.com/in/andrew-teece/) or visit [andrewteece.com](https://andrewteece.com).
+
+---
