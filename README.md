@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrew Teece
+# 👋 Hi, I'm Andrew 
 **Front-End Web Developer** | React • TypeScript • Next.js • Tailwind CSS
 
 I build performant, accessible, and user-friendly web applications.  
